@@ -11,17 +11,17 @@ List of useful grunt plugins for your next project.
 
   <tr>
     <td><a href="https://github.com/praveenvijayan/grunt-html-validation">grunt-html-validation</a></td>
-    <td></td>
+    <td>Validate HTML document.</td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/gruntjs/grunt-contrib-csslint">grunt-contrib-csslint</a></td>
-    <td></td>
+    <td>Validate CSS files.</td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/gruntjs/grunt-contrib-jshint">grunt-contrib-jshint</a></td>
-    <td></td>
+    <td>Validate JS files.</td>
   </tr>
   
   <tr>
@@ -30,7 +30,7 @@ List of useful grunt plugins for your next project.
   
   <tr>
     <td><a href="https://github.com/gruntjs/grunt-contrib-concat">grunt-contrib-concat</a></td>
-    <td></td>
+    <td>Concatenate your HTML, CSS ans JS files separately.</td>
   </tr>
 
   <tr>
