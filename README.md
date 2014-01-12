@@ -25,35 +25,30 @@ List of useful grunt plugins for your next project.
   </tr>
   
   <tr>
-    <td><a href="#">grunt-html-validation</a></td>
-    <td></td>
+    <td colspan="2"><strong>Concatenation</strong></td>
   </tr>
   
   <tr>
-    <td colspan="2"><strong>Compilation</strong></td>
-  </tr>
-  
-  <tr>
-    <td><a href="#">grunt-html-validation</a></td>
+    <td><a href="https://github.com/gruntjs/grunt-contrib-concat">grunt-contrib-concat</a></td>
     <td></td>
   </tr>
 
   <tr>
-    <td colspan="2"><strong>Compilation</strong></td>
+    <td colspan="2"><strong>Compression</strong></td>
   </tr>
   
   <tr>
-    <td><a href="#">grunt-html-validation</a></td>
+    <td><a href="https://github.com/gruntjs/grunt-contrib-htmlmin">grunt-contrib-htmlmin</a></td>
     <td></td>
   </tr>
   
   <tr>
-    <td><a href="#">grunt-html-validation</a></td>
+    <td><a href="https://github.com/gruntjs/grunt-contrib-cssmin">grunt-contrib-cssmin</a></td>
     <td></td>
   </tr>
   
   <tr>
-    <td><a href="#">grunt-html-validation</a></td>
+    <td><a href="https://github.com/gruntjs/grunt-contrib-uglify">grunt-contrib-uglify</a></td>
     <td></td>
   </tr>
 
