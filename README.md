@@ -1,12 +1,16 @@
-grunt-plugins
-=============
+Grulp
+=====
 
-List of useful grunt plugins for your next project.
+List of ready-to-use grunt/gulp plugins for your next project.
 
 <table>
 
   <tr>
     <td colspan="2"><strong>Linting</strong></td>
+  </tr>
+  
+  <tr>
+    <td></td>
   </tr>
 
   <tr>
