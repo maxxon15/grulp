@@ -34,22 +34,22 @@ List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.
     <tr>
       <td><a href="https://npmjs.org/package/grunt-contrib-haml">grunt-contrib-haml</a></td>
       <td><a href="https://npmjs.org/package/gulp-haml">gulp-haml</a></td>
-      <td>Compile HAML to <strong>HTML</strong></td>
+      <td>Compile HAML to HTML</td>
     </tr>
     <tr>
       <td><a href="https://github.com/treasonx/grunt-markdown">grunt-markdown</a></td>
       <td><a href="https://npmjs.org/package/gulp-markdown">gulp-markdown</a></td>
-      <td>Compile Markdown to <strong>HTML</strong></td>
+      <td>Compile Markdown to HTML</td>
     </tr>
     <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-jade">grunt-contrib-jade</a></td>
       <td><a href="https://npmjs.org/package/gulp-jade">gulp-jade</a></td>
-      <td>Compile JADE to <strong>HTML</strong></td>
+      <td>Compile JADE to HTML</td>
     </tr>
     <tr>
       <td><a href="https://github.com/matsumos/grunt-slim">grunt-slim</a></td>
       <td>?</td>
-      <td>Compile SLIM to <strong>HTML</strong></td>
+      <td>Compile SLIM to HTML</td>
     </tr>
     <tr>
       <th colspan="3">CSS Pre-processor</th>
@@ -57,22 +57,22 @@ List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.
     <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-sass">grunt-contrib-sass</a></td>
       <td><a href="https://npmjs.org/package/gulp-sass">gulp-sass</a></td>
-      <td>Compile Sass/SCSS to <strong>CSS</strong></td>
+      <td>Compile Sass/SCSS to CSS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-less">grunt-contrib-less</a></td>
       <td><a href="https://npmjs.org/package/gulp-less">gulp-less</a></td>
-      <td>Compile LESS to <strong>CSS</strong></td>
+      <td>Compile LESS to CSS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-stylus">grunt-contrib-stylus</a></td>
       <td><a href="https://npmjs.org/package/gulp-stylus">gulp-stylus</a></td>
-      <td>Compile Stylus to <strong>CSS</strong></td>
+      <td>Compile Stylus to CSS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-compass">grunt-contrib-compass</a></td>
       <td><a href="https://npmjs.org/package/gulp-compass">gulp-compass</a></td>
-      <td>Compile Compass to <strong>CSS</strong></td>
+      <td>Compile Compass to CSS</td>
     </tr>
     <tr>
       <th colspan="3">JavaScript Pre-processor</th>
@@ -80,17 +80,17 @@ List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.
     <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-coffee">grunt-contrib-coffee</a></td>
       <td><a href="https://npmjs.org/package/gulp-coffee">gulp-coffee</a></td>
-      <td>Compile CoffeeScript to <strong>JavaScript</strong></td>
+      <td>Compile CoffeeScript to JavaScript</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DavidSouther/grunt-livescript">grunt-livescript</a></td>
       <td><a href="https://npmjs.org/package/gulp-livescript">gulp-livescript</a></td>
-      <td>Compile LiveScript to <strong>JavaScript</strong></td>
+      <td>Compile LiveScript to JavaScript</td>
     </tr>
     <tr>
       <td><a href="https://npmjs.org/package/grunt-typescript">grunt-typescript</a></td>
       <td>?</td>
-      <td>Compile TypeScript to <strong>JavaScript</strong></td>
+      <td>Compile TypeScript to JavaScript</td>
     </tr>
     <tr>
       <td colspan="3"><strong>2. Linting</strong></td>
@@ -125,6 +125,11 @@ List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.
       <td><a href="https://github.com/gruntjs/grunt-contrib-htmlmin">grunt-contrib-htmlmin</a></td>
       <td><a href="https://npmjs.org/package/gulp-minify-html">gulp-minify-html</a></td>
       <td>Compress HTML files.</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
