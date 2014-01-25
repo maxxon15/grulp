@@ -122,9 +122,46 @@ List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.
       <td colspan="3"><strong>4. Compression</strong></td>
     </tr>
     <tr>
+    	<th colspan="3">Code Minification</th>
+    </tr>
+    <tr>
       <td><a href="https://github.com/gruntjs/grunt-contrib-htmlmin">grunt-contrib-htmlmin</a></td>
       <td><a href="https://npmjs.org/package/gulp-minify-html">gulp-minify-html</a></td>
-      <td>Compress HTML files.</td>
+      <td>Minify HTML files.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gruntjs/grunt-contrib-cssmin">grunt-contrib-cssmin</a></td>
+      <td><a href="https://npmjs.org/package/gulp-minify-css">gulp-minify-css</a></td>
+      <td>Minify CSS files.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gruntjs/grunt-contrib-uglify">grunt-contrib-uglify</a></td>
+      <td><a href="https://npmjs.org/package/gulp-uglify">gulp-uglify</a></td>
+      <td>Minify JavaScript files.</td>
+    </tr>
+    <tr>
+    	<th colspan="3">Images</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gruntjs/grunt-contrib-imagemin">grunt-contrib-imagemin</a></td>
+      <td><a href="https://npmjs.org/package/gulp-imagemin">gulp-imagemin</a></td>
+      <td>Compress PNG, JPEG and GIF images.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/sindresorhus/grunt-svgmin">grunt-svgmin</a></td>
+      <td><a href="https://npmjs.org/package/gulp-svgmin">gulp-svgmin</a></td>
+      <td>Compress SVG images.</td>
+    </tr>
+    <tr>
+    	<td colspan="3"><strong>5. Hashing</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://npmjs.org/package/grunt-rev">grunt-rev</a></td>
+      <td><a href="https://npmjs.org/package/gulp-rev">gulp-rev</a></td>
+      <td>Rename assets with hash-ed filenames.</td>
+    </tr>
+    <tr>
+    	<td colspan="3"><strong>6. Miscellaneous</strong></td>
     </tr>
     <tr>
       <td></td>
@@ -136,5 +173,10 @@ List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.
       <td></td>
       <td></td>
     </tr>
-	</tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
