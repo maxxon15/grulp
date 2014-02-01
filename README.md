@@ -161,8 +161,32 @@ Moving from Grunt to Gulp? Get the list of ready-to-use [grunt](http://gruntjs.c
       <td>Rename assets with hash-ed filenames.</td>
     </tr>
     <tr>
-    	<td colspan="3"><strong>6. Miscellaneous</strong></td>
+    	<td colspan="3"><strong>6. Testing</strong></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/kmiyashiro/grunt-mocha">grunt-mocha</a></td>
+      <td><a href="https://npmjs.org/package/gulp-mocha">gulp-mocha</a></td>
+      <td>Task for running Mocha specs in a headless browser (PhantomJS).</td>
+    </tr>
+    <tr>
+    	<td><a href="https://github.com/gruntjs/grunt-contrib-jasmine">grunt-contrib-jasmine</a></td>
+    	<td><a href="https://npmjs.org/package/gulp-jasmine">gulp-jasmine</a></td>
+    	<td>Run Jasmine specs headlessly through PhantomJS.</td>
+    </tr>
+    <tr>
+    	<td><a href="https://github.com/gruntjs/grunt-contrib-qunit">grunt-contrib-qunit</a></td>
+    	<td><a href="https://npmjs.org/package/gulp-qunit">gulp-qunit</a></td>
+    	<td>Run QUnit unit tests in a headless PhantomJS instance.</td>
+    </tr>
+    <tr>
+    	<td colspan="3"><strong>7. Miscellaneous</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mattstyles/grunt-banner">grunt-banner</a></td>
+      <td><a href="https://npmjs.org/package/gulp-header">gulp-header</a></td>
+      <td>Add a banner to the files.</td>
+    </tr>
+    <!--
     <tr>
       <td></td>
       <td></td>
@@ -173,10 +197,6 @@ Moving from Grunt to Gulp? Get the list of ready-to-use [grunt](http://gruntjs.c
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
+    -->
   </tbody>
 </table>
