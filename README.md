@@ -1,7 +1,7 @@
 Gr(ul)p
 =======
 
-List of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.github.io/search-gulp-plugins/) plugins for your next web project.
+Moving from Grunt to Gulp? Get the list of ready-to-use [grunt](http://gruntjs.com/plugins)/[gulp](http://gratimax.github.io/search-gulp-plugins/) plugins for your next project.
 
 <table>
 	<caption></caption>
